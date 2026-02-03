@@ -30,6 +30,6 @@ Feel free to edit, mix or do anything you want with my project – I love the op
 | Charger 12s | $43.86 | [12S Charger](https://pl.aliexpress.com/item/1005006990161387.html) |
 | 4psc 105mm wheel - cheapest that will not kill me [hopefully] | $101.62 | [105mm wheels](https://pl.aliexpress.com/item/1005007479585632.html) |
 | VESC electric motor controller - cheapest one | $74.00 | [VESC Mini V6](https://flipsky.net/collections/electronic-products/products/mini-v6-mk5-with-power-button) |
-| Flipsky 6384 reliable and just powerfull enough bldc motor | $161.90 | [6384 motor](https://flipsky.net/collections/hobby-motors-for-esk8-ebike-efoil/products/flipsky-bldc-belt-motor-battle-hardened-6384-140kv-170kv-190kv-4000w-for-electric-skateboard) |
+| Flipsky 6384 reliable and just powerfull enough bldc motor | $152 | [6384 motor](https://flipsky.net/collections/hobby-motors-for-esk8-ebike-efoil/products/flipsky-bldc-belt-motor-battle-hardened-6384-140kv-170kv-190kv-4000w-for-electric-skateboard) |
 | Batteries for range that will allow me to traver to school x24 | $93.45 | [21700 batteries](https://batterybuddy.pl/produkt/ampace-inr21700-jp40-2025-r/) |
 | **SUM** | **$709.57** | |
