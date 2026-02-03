@@ -21,7 +21,7 @@ Feel free to edit, mix or do anything you want with my project – I love the op
 | Copper strip for spot welding | $13.22 | [Copper strip for spot welding](https://pl.aliexpress.com/item/1005004428101540.html) |
 | Spot welder - my brother will lend me for a week | $0.00 | — |
 | Longboard | $56.02 | Already bought |
-| Trucks for electric longboards | $110.9 | [Flipsky trucks]([https://www.alibaba.com/product-detail/Double-Kingpin-Rear-Front-Trucks-15_1601595510200.html](https://flipsky.net/products/12-double-kingpin-trucks?variant=39376676126907) |
+| Trucks for electric longboards | $110.9 | [Flipsky trucks]([https://www.alibaba.com/product-detail/Double-Kingpin-Rear-Front-Trucks-15_1601595510200.html](https://flipsky.net/products/12-double-kingpin-trucks?variant=39376676126907)) |
 | cheap bms 14s 100a | $39.22 | [BMS 14s 100A](https://pl.aliexpress.com/item/1005005630468743.html) |
 | Insulation for batteries | $4.00 | [Battery insulation](https://pl.aliexpress.com/item/1005008389823367.html) |
 | cheapest pulley on aliexpress | $15.29 | [Pulley](https://pl.aliexpress.com/item/1005007446907710.html) |
